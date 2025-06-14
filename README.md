@@ -14,7 +14,7 @@
 
   <!-- Sección: Inicio -->
   <section id="inicio" class="text-center p-5 bg-primary text-white">
-    <img src="./assets/foto-perfil.jpg" alt="Foto de perfil" class="rounded-circle mb-3" width="150">
+    <img src="Sandy Salmon" alt="Foto de perfil" class="rounded-circle mb-3" width="150">
     <h1>Hola, soy Sandy Salmon</h1>
     <p>Desarrollador Web | Diseñador UI/UX</p>
   </section>
