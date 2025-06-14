@@ -80,7 +80,7 @@
   <footer class="text-center py-4 bg-dark text-white">
     <p>Sígueme en:
       <a href="https://github.com/sandysalmon" target="_blank" class="text-white mx-2"><i class="fab fa-github"></i></a>
-      <a href="https://linkedin.com/in/sandysalmon" target="_blank" class="text-white mx-2"><i class="fab fa-linkedin"></i></a>
+      <a href=www.linkedin.com/in/sandy-jazmin-salmon-figueroa-436b78295 target="_blank" class="text-white mx-2"><i class="fab fa-linkedin"></i></a>
     </p>
     <p>&copy; 2025 Sandy Salmon</p>
   </footer>
